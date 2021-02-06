@@ -3,7 +3,7 @@
 Aluno: Hellesandro Gonzaga de Carvalho
 
 ### Especificação:
-- Implementação do A* de acordo com as especificações do texto complementar: [A* Pathfinding para iniciantes]()
+- Implementação do A* de acordo com as especificações do texto complementar: [A* Pathfinding para iniciantes](https://github.com/gonzH/ifes-ia-a_star/blob/master/materiais/A_Pathfinding_Para_Iniciantes.pdf)
 - Para minimizar o problema, o caminho planejado pelo agente é em linha reta 90 graus (Manhattan) portanto não se movimenta na diagonal; 
 - Entrada: **mapa.txt, ponto inicial, objetivo**;
 - Saída: **um mapa com o desenho da trajetória, lista das coordenadas a serem percorridas**;
@@ -38,10 +38,10 @@ Referência: ZANCHIN, Betina Carol. Análise do algorítmo A* (a estrela) no pla
 O problema proposto é o caminho descrito na figura a seguir, onde um objeto precisa caminhar verticalmente/horizontalmente do ponto inicial, até o ponto final, sem que este colida com os obstáculos(em preto). O algoritmo deve ser capaz de definir o melhor caminho, de acordo com a heurística recebida.
 
 Legenda:
-- Vermelho é o ponto inicial.
-- Verde é o ponto final.
+- Vermelho é o ponto inicial;
+- Verde é o ponto final;
 
-IMAGE HERE
+![Mapa1](materiais\mapa1.png)
 
 
 ### Implementação
