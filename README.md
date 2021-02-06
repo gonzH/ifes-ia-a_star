@@ -41,7 +41,7 @@ Legenda:
 - Vermelho é o ponto inicial;
 - Verde é o ponto final;
 
-![Mapa1](materiais\mapa1.png)
+![Mapa1](materiais/mapa1.png)
 
 
 ### Implementação
