@@ -21,17 +21,18 @@ De acordo com ZANCHIN(2018),
 
 Desse modo, para o algoritmo A* temos:
 
-$$
+```math
 f(n) = g(n) + h(n)
-$$
+```
+
 Onde:
 - **g(n)** é o custo para alcançar cada nó
 - **h(n**) é o menor custo partindo da origem para chegar no destino
 - **f(n)** é o custo estimado da solução de custo mais baixo passando por n
 
+<br>
 
-Referência: ZANCHIN, Betina Carol. Análise do algorítmo A* (a estrela) no planejamento de rotas de veículos autônomos. 2018. 63 f. Trabalho de Conclusão de Curso (Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná, Ponta Grossa, 2018.
-
+**Referência:** ZANCHIN, Betina Carol. Análise do algorítmo A* (a estrela) no planejamento de rotas de veículos autônomos. 2018. 63 f. Trabalho de Conclusão de Curso (Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná, Ponta Grossa, 2018.
 
 ### Problema
 
