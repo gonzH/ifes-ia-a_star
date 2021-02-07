@@ -22,7 +22,7 @@ De acordo com ZANCHIN(2018),
 Desse modo, para o algoritmo A* temos:
 
 <br>
-<img src="https://latex.codecogs.com/png.latex?\dpi{150}\;f(n)\; =\; g(n)\; +\; h(n)\;" title="f(n) = g(n) + h(n)" style="vertical-align:middle;margin:0px 100px"/>
+<img src="https://latex.codecogs.com/gif.latex?\large&space;f(n)&space;=&space;g(n)&space;&plus;&space;h(n)" title="\large f(n) = g(n) + h(n)" />
 <br><br>
 
 Onde:
