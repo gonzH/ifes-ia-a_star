@@ -21,9 +21,9 @@ De acordo com ZANCHIN(2018),
 
 Desse modo, para o algoritmo A* temos:
 
-```math
-f(n) = g(n) + h(n)
-```
+<br>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(n) = g(n) + h(n)" title="f(n) = g(n) + h(n)" style="vertical-align:middle;margin:0px 100px"/>
+<br><br>
 
 Onde:
 - **g(n)** é o custo para alcançar cada nó
