@@ -61,7 +61,12 @@ A explicação é melhor acompanhada pelos comentários no código.
 Mas basicamente a estratégia foi, para cada nó atual, olhar para as direções possíveis que era cima, baixo, esquerda, direita (90 graus) e calcular a h(n) que foi intuitivo do tipo "estou aqui, quero chegar ali, quanto é a distancia daqui ali?". Além disso, fazer o caminho de volta em orientação a objeto foi mais simples ~~(o procedural não funcionou, desisti e fui pra OO)~~.
 
 ### Como rodar
-Tendo **Python 3.7** instalado e uma pasta chamada "maps" no mesmo diretório que os códigos fonte, execute o arquivo `main.py` no terminal.
+Tendo **Python 3.7** instalado e uma pasta chamada "maps" no mesmo diretório que os códigos fonte, execute o arquivo `main.py` no terminal. Como? Dependendo de como o Python foi instalado no seu computador você pode:
+- Abrir o terminal na pasta do código e digitar ```python main.py``` se `python` foi a variável de ambiente listada para o interpretador.
+###### OU
+- Abrir o código fonte `main.py` numa IDE e executar.
+
+
 Para atender a especificação do trabalho digite:
 - 0,0
 - 9,8
